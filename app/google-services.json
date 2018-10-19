@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023679435662",
+    "firebase_url": "https://mechse-eee5c.firebaseio.com",
+    "project_id": "mechse-eee5c",
+    "storage_bucket": "mechse-eee5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023679435662:android:2441dab58dd23c0d",
+        "android_client_info": {
+          "package_name": "com.example.bernyspc.mechse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023679435662-2aa6tb46086q78hlg5skjd8mn2ue6uii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bernyspc.mechse",
+            "certificate_hash": "01114e2321b3fa9acdf04a2815a82c9c8b2d0620"
+          }
+        },
+        {
+          "client_id": "1023679435662-6lskgbour03c175s7dqumu0hn0g8jgjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLISYbK3JBlR8Q3l3S71CEBWHXGMEGW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023679435662-6lskgbour03c175s7dqumu0hn0g8jgjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
